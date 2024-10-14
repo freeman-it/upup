@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c2fe2e5-b931-48df-830d-5b15fca7a950" name="Changes" comment="" />
+    <list default="true" id="1c2fe2e5-b931-48df-830d-5b15fca7a950" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it/reee/DockerDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it/reee/DockerDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/it/reee/DockerDemoApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/it/reee/DockerDemoApplication.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,8 +77,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "Spring Boot.DockerDemoApplication (1).executor": "Run",
     "Spring Boot.DockerDemoApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/workspace/docker-demo/Dockerfile",
@@ -91,7 +95,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Spring Boot.DockerDemoApplication">
+  <component name="RunManager" selected="Spring Boot.DockerDemoApplication (1)">
+    <configuration name="DockerDemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="docker-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.it.reee.DockerDemoApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.reee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DockerDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="reee" />
@@ -150,9 +168,11 @@
       <item itemvalue="Docker.docker-demo" />
       <item itemvalue="Docker.Docker Image" />
       <item itemvalue="Spring Boot.DockerDemoApplication" />
+      <item itemvalue="Spring Boot.DockerDemoApplication (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.DockerDemoApplication (1)" />
         <item itemvalue="Docker.Docker Image" />
       </list>
     </recent_temporary>
@@ -178,6 +198,7 @@
       <workItem from="1728700317301" duration="5118000" />
       <workItem from="1728711988881" duration="330000" />
       <workItem from="1728712329065" duration="2588000" />
+      <workItem from="1728866328080" duration="7323000" />
     </task>
     <servers />
   </component>
